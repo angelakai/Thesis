@@ -24,7 +24,7 @@ A full-stack marketplace platform for buying and selling second-hand furniture, 
 
 
 
-## 🚀 Tech Stack
+## Tech Stack
 * **Backend:** Java Spring Boot (REST API)
 * **Frontend:** React.js & CSS
 * **Database:** MySQL
